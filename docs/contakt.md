@@ -1,3 +1,0 @@
-# Kontakt
-
-[Powrót](./index.md)
