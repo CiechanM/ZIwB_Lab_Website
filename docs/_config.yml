@@ -1,5 +1,5 @@
 title: Zastosowania Internetu w Biznesie
-description: 'Autor: Sebastian Skrobich'
-remote_theme: pages-themes/midnight@v0.2.0
+description: 'Autor: Lukasz Wylegala'
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
